@@ -21,7 +21,7 @@ A Chrome extension that masks words on social media pages.
 ### **📌 Instagram Masking Effect**
 ![Instagram Masking](images/effect1.jpg)
 
-### **📌 Instagram Scrambling Effect**
+### **📌 Instagram Masking Effect**
 ![Twitter Masking](images/effect2.jpg)
 
 ## 🛠️ Technologies
