@@ -18,11 +18,11 @@ A Chrome extension that masks words on social media pages.
 
 ## 🎥 Demo Screenshots
 
-### **📌 Instagram Scrambling Effect**
-(images/effect1.jpg)
+### **📌 Instagram Masking Effect**
+![Instagram Masking](images/effect1.jpg)
 
-### **📌 Twitter/X Scrambling Effect**
-(images/effect2.jpg)
+### **📌 Instagram Scrambling Effect**
+![Twitter Masking](images/effect2.jpg)
 
 ## 🛠️ Technologies
 - **Manifest v3**
